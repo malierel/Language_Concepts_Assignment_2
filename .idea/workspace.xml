@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="578636e9-19a5-4541-b08d-a13d6ea5c29b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PySchemeAlgorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.scm" afterDir="false" />
+    <list default="true" id="578636e9-19a5-4541-b08d-a13d6ea5c29b" name="Changes" comment="chatgpt kodları eklendi.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,11 +235,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715805840333</updated>
-      <workItem from="1715805849032" duration="326000" />
+      <workItem from="1715805849032" duration="668000" />
     </task>
+    <task id="LOCAL-00001" summary="chatgpt kodları eklendi.">
+      <option name="closed" value="true" />
+      <created>1715806447571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715806447571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chatgpt kodları eklendi." />
+    <option name="LAST_COMMIT_MESSAGE" value="chatgpt kodları eklendi." />
   </component>
 </project>
